@@ -14,15 +14,15 @@ Here's what I have been working on in my free time:
 
 - <a href="https://github.com/artyom-boyarov/trajectory-following-simulation">trajectory-following-simulation</a>: A simulation comparing control algorithms used to navigate an autonomous bus through an urban environment. I then used this simulation to carry out my first <a href="https://emerginginvestigators.org/articles/22-104">published</a> research project.
 - <a href="https://github.com/artyom-boyarov/fpga-demos">fpga-demos</a>: ~8 working SystemVerilog HDL modules designed for the Xilinx Artix-7 based Basys3 FPGA board. These demonstrations use many of the board's peripherals and features such as the PS/2 interface, VGA port, switches, LEDs, 7-segment display, on-chip BRAM and debug cores.
-- <a href="https://github.com/artyom-boyarov/Flashcards">Flashcards</a>: a QT5-based flashcards app, designed to mimic Quizlet's features to learn flashcards. (made in response to Quizlet requiring payments)
-- <a href="https://github.com/artyom-boyarov/xamarin-converter">xamarin-converter</a>: A Xamarin.Forms app which converts between different units. When I get round to it, I'll make a .NET MAUI port of this.
+- <a href="https://github.com/h1-Group-h1">Royal Automation</a>: During the 2021 Fox Hub accelerator program, I recruited and led a London-based team to develop a smart home automation system. Our system was focused on windows and blinds in the user's home: users could automatically open their windows and blinds at the press of a button in their smartphone app.
 - <a href="https://github.com/umrover/mrover-ros">mrover-ros</a>: I'm an embedded software engineer at the University of Michigan's Mars Rover Project Team. In the past year, I've made the following contributions:
   - Spearheaded transition to MJBots Moteus brushless motor control board by studying CAN interface and writing a supporting C++ software library.
   - Clearly documented motor communication protocol and how to run, configure, and debug motors.
   - Produced reliable, user-friendly Python script to automatically configure new motors with pre-determined, optimal settings.
   - Learned Altium Designer and collaborated with team to design a new circuit board to improve collected sample analysis.
   - Upgraded firmware for STM32-based motor control board, employing novel C++20 features to improve performance.
-- <a href="https://github.com/h1-Group-h1">Royal Automation</a>: During the 2021 Fox Hub accelerator program, I recruited and led a London-based team to develop a smart home automation system. Our system was focused on windows and blinds in the user's home: users could automatically open their windows and blinds at the press of a button in their smartphone app.
+- <a href="https://github.com/artyom-boyarov/Flashcards">Flashcards</a>: a QT5-based flashcards app, designed to mimic Quizlet's features to learn flashcards. (made in response to Quizlet requiring payments)
+- <a href="https://github.com/artyom-boyarov/xamarin-converter">xamarin-converter</a>: A Xamarin.Forms app which converts between different units. When I get round to it, I'll make a .NET MAUI port of this.
 
 Not everything I do can be published, but here is a description of other work I've done as part of internships and coursework:
 - Software Engineering internship at Flex Technologies [London, UK, May-Aug 2023]:
