@@ -10,7 +10,7 @@ Here's what I have been working on in my free time:
 - <a href="https://github.com/artyom-boyarov/Flashcards">Flashcards</a>: a QT5-based flashcards app, designed to mimic Quizlet's features to learn flashcards. (made in response to Quizlet requiring payments)
 - <a href="https://github.com/artyom-boyarov/xamarin-converter">xamarin-converter</a>: A Xamarin.Forms app which converts between different units. When I get round to it, I'll make a .NET MAUI port of this.
 - <a href="https://github.com/umrover/mrover-ros">mrover-ros</a>: I'm an embedded software engineer at the University of Michigan's Mars Rover Project Team. In the past year, I've made the following contributions:
-  - Spearheaded transition to novel brushless motor control board by studying CAN interface and writing a supporting C++ software library.
+  - Spearheaded transition to MJBots Moteus brushless motor control board by studying CAN interface and writing a supporting C++ software library.
   - Clearly documented motor communication protocol and how to run, configure, and debug motors.
   - Produced reliable, user-friendly Python script to automatically configure new motors with pre-determined, optimal settings.
   - Learned Altium Designer and collaborated with team to design a new circuit board to improve collected sample analysis.
