@@ -8,7 +8,7 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
     <td>Hardware</td>
   </tr>
   <tr>
-    <td><image src="./c++.png" height=20/> C, Python, Java, C#, MATLAB, SystemVerilog, RISC-V Assembly.</td>
+    <td><image src="./c++.png" height=30/>  <image src="./c.png" height=30/> <image src="./python.png" height=30/> <image src="./java.jpg" height=30/>  <image src="./csharp.png" height=30/>  <image src="./matlab.png" height=30/>  <image src="./sv.png" height=30/></td>
     <td>Xilinx & Intel FPGAs, Arduino, Raspberry Pi, STM32.</td>
   </tr>
   <tr>
