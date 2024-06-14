@@ -76,5 +76,5 @@ Courses I've taken online and at U-M:
 # Foreign Languages
 I know German and Mandarin Chinese, both at a professional proficiency.
 # Contact:
-Feel free to reach out to ask more questions about my work or experience. Please email if you would like a copy of my resumé.
+Feel free to reach out to ask more questions about my work or experience. Please email if you would like a copy of my resumé. <br>
 Email: aboyarov _at_ umich _dot_ edu.
