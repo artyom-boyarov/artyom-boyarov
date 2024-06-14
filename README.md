@@ -2,11 +2,25 @@
 I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the University of Michigan (Go Blue!). My major is in Computer Engineering and my interests lie in Computer Hardware, Robotics, Nanotechnology, and Graphics.
 
 # Technical skills
-A summary of my technical skills:
-- Programming languages: C++, C, Python, Java, C#, MATLAB, SystemVerilog, RISC-V Assembly.
-- CAD tools: Visual Studio, Android Studio, MATLAB, OnShape CAD, SolidWorks, Altium Designer, KiCAD, AMD Vivado, Intel Quartus, Verilator, git, Logic Analyzer.
-- Hardware: Xilinx & Intel FPGAs, Arduino, Raspberry Pi, STM32.
-- Software Frameworks: C++ STL, Qt 5+6, ROS2, Matplotlib, NumPy, FastAPI, SQLAlchemy, Android SDK
+<table>
+  <tr>
+    <td>Programming Languages</td>
+    <td>Hardware</td>
+  </tr>
+  <tr>
+    <td>C++, C, Python, Java, C#, MATLAB, SystemVerilog, RISC-V Assembly.</td>
+    <td>Xilinx & Intel FPGAs, Arduino, Raspberry Pi, STM32.</td>
+  </tr>
+  <tr>
+    <td>Tools</td>
+    <td>Software Frameworks</td>
+  </tr>
+  
+  <tr>
+    <td>Visual Studio, Android Studio, MATLAB, OnShape CAD, SolidWorks, Altium Designer, KiCAD, AMD Vivado, Intel Quartus, Verilator, git, Logic Analyzer.</td>
+    <td>C++ STL, Qt 5+6, ROS2, Matplotlib, NumPy, FastAPI, SQLAlchemy, Android SDK</td>
+  </tr>
+</table>
 
 # Projects
 Here's what I have been working on in my free time:
