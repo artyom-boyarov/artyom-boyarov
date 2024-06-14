@@ -9,7 +9,7 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
   </tr>
   <tr>
     <td><image src="./c++.png" height=30/>  <image src="./c.png" height=30/> <image src="./python.png" height=30/> <image src="./java.jpg" height=30/>  <image src="./csharp.png" height=30/>  <image src="./matlab.png" height=30/>  <image src="./sv.png" height=30/></td>
-    <td>Xilinx & Intel FPGAs, Arduino, Raspberry Pi, STM32.</td>
+    <td>MCUs: <image src="./rpi.png" height=30/> <image src="./arduino.png" height=30/> <image src="./stm32.webp" height=30/><br> FPGAs: <image src="./fpga_amd.png" height=30/> <image src="./fpga_intel.png" height=30/></td>
   </tr>
   <tr>
     <td>Tools</td>
