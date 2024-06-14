@@ -23,7 +23,6 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
 </table>
 
 # Projects
-Here's what I have been working on in my free time:
 <br><i>Follow the link to each repository, where you'll find code, in-depth descriptions, pictures, videos, and more.</i>
 
 - <a href="https://github.com/artyom-boyarov/trajectory-following-simulation">trajectory-following-simulation</a>: A simulation comparing control algorithms used to navigate an autonomous bus through an urban environment. I then used this simulation to carry out my first <a href="https://emerginginvestigators.org/articles/22-104">published</a> research project.
