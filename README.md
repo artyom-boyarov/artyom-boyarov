@@ -2,23 +2,23 @@
 I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the University of Michigan (Go Blue!). My major is in Computer Engineering and my interests lie in Computer Hardware, Robotics, Nanotechnology, and Graphics.
 
 # Technical skills
-<table>
-  <tr>
+<table >
+  <tr  align="center">
     <td>Programming Languages</td>
     <td>Hardware</td>
   </tr>
-  <tr>
-    <td><image src="./c++.png" height=30/>  <image src="./c.png" height=30/> <image src="./python.png" height=30/> <image src="./java.jpg" height=30/>  <image src="./csharp.png" height=30/>  <image src="./matlab.png" height=30/>  <image src="./sv.png" height=30/></td>
-    <td>MCUs: <image src="./rpi.png" height=30/> <image src="./arduino.png" height=30/> <image src="./stm32.webp" height=30/><br> FPGAs: <image src="./fpga_amd.png" height=30/> <image src="./fpga_intel.png" height=30/></td>
+  <tr  align="center">
+    <td ><image src="./c++.png" height=30/>  <image src="./c.png" height=30/> <image src="./python.png" height=30/> <image src="./java.jpg" height=30/>  <image src="./csharp.png" height=30/>  <image src="./matlab.png" height=30/>  <image src="./sv.png" height=30/></td>
+    <td >MCUs: <image src="./rpi.png" height=30/> <image src="./arduino.png" height=30/> <image src="./stm32.webp" height=30/><br> FPGAs: <image src="./fpga_amd.png" height=30/> <image src="./fpga_intel.png" height=30/></td>
   </tr>
-  <tr>
+  <tr  align="center">
     <td>Tools</td>
     <td>Software Frameworks</td>
   </tr>
   
-  <tr>
+  <tr  align="center">
     <td> <image src="./vs.png" height=30/>  <image src="./android_studio.png" height=30/>  <image src="./git.png" height=30/> <image src="./matlab.png" height=30/> <br>  <image src="./onshape.png" height=30/>  <image src="./solidworks.png" height=30/> <br>  <image src="./altium.png" height=30/>  <image src="./kicad.png" height=30/>  <br>  <image src="./vivado.jpg" height=30/>  <image src="./quartus.jpeg" height=30/>  <image src="./verilator.png" height=30/> </td>
-    <td>C++ STL, Qt 5+6, ROS2, Matplotlib, NumPy, FastAPI, SQLAlchemy, Android SDK</td>
+    <td> <image src="./qt.png" height=30/> <image src="./ros.png" height=30/> <image src="./ros2.png" height=30/> <image src="./matplotlib.webp" height=30/> <image src="./numpy.png" height=30/> <image src="./fastapi.png" height=30/> <image src="./sqlalchemy.png" height=30/> <image src="./android.png" height=30/></td>
   </tr>
 </table>
 
