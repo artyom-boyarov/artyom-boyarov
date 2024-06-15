@@ -17,7 +17,7 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
   </tr>
   
   <tr>
-    <td>Visual Studio, Android Studio, MATLAB, OnShape CAD, SolidWorks, Altium Designer, KiCAD, AMD Vivado, Intel Quartus, Verilator, git, Logic Analyzer.</td>
+    <td> <image src="./vs.png" height=30/>  <image src="./android_studio.png" height=30/>  <image src="./git.png" height=30/> <image src="./matlab.png" height=30/> <br>  <image src="./onshape.png" height=30/>  <image src="./solidworks.png" height=30/> <br>  <image src="./altium.png" height=30/>  <image src="./kicad.png" height=30/>  <br>  <image src="./vivado.jpg" height=30/>  <image src="./quartus.jpeg" height=30/>  <image src="./verilator.png" height=30/> </td>
     <td>C++ STL, Qt 5+6, ROS2, Matplotlib, NumPy, FastAPI, SQLAlchemy, Android SDK</td>
   </tr>
 </table>
