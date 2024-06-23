@@ -23,7 +23,7 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
 </table>
 
 # Projects
-<br><i>Follow the link to each repository, where you'll find code, in-depth descriptions, pictures, videos, and more.</i>
+<!--<br><i>Follow the link to each repository, where you'll find code, in-depth descriptions, pictures, videos, and more.</i>-->
 
 - <a href="https://github.com/artyom-boyarov/trajectory-following-simulation">trajectory-following-simulation</a>: A simulation comparing control algorithms used to navigate an autonomous bus through an urban environment. I then used this simulation to carry out my first <a href="https://emerginginvestigators.org/articles/22-104">published</a> research project.
 - <a href="https://github.com/artyom-boyarov/fpga-demos">fpga-demos</a>: ~8 working SystemVerilog HDL modules designed for the Xilinx Artix-7 based Basys3 FPGA board. These demonstrations use many of the board's peripherals and features such as the PS/2 interface, VGA port, switches, LEDs, 7-segment display, on-chip BRAM and debug cores.
