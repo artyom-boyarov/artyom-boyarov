@@ -58,21 +58,29 @@ Not everything I do can be published, but here is a description of other work I'
 
 
 # Coursework
-Courses I've taken online and at U-M:
-- Computer Science/Robotics:
-  - EECS 280: Programming and Intro Data Structures
-  - CS 61C: Great Ideas in Computer Architecture
-  - EECS 215: Electronic Circuits
-  - Introduction to Self-Driving Cars.
-  - Web Development and Database Development using Python.
-- Mathematics:
-  - ROB 101: Linear Algebra for Robotics
-  - MATH 215: Multivariable Calculus
-  - MATH 216: Differential Equations
-  - EECS 203: Discrete Math
-- Other:
-  - GERMAN 350: Business German
-  - ENVIRON 208: Business and Sustainability
+<table>
+  <tr align="center">
+    <th width="500">Computer Science</th>
+    <th width="500">Mathematics</th>
+  </tr>
+  <tr align="center">
+    <td>
+      EECS 280: Programming and Intro Data Structures<br>
+      CS 61C: Great Ideas in Computer Architecture<br>
+      EECS 215: Electronic Circuits<br>
+      Introduction to Self-Driving Cars.<br>
+      Web Development and Database Development using Python.<br>
+    </td>
+    <td>
+      ROB 101: Linear Algebra for Robotics<br>
+      MATH 215: Multivariable Calculus<br>
+      MATH 216: Differential Equations<br>
+      EECS 203: Discrete Math<br>
+      Differential Equations<br>
+    </td>
+  </tr>
+</table>
+
 # Foreign Languages
 I know German and Mandarin Chinese, both at a professional proficiency.
 # Contact:
