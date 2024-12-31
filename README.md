@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the University of Michigan. My major is in Computer Engineering and my interests lie in Computer Hardware, Robotics, Nanotechnology, and Graphics.
+I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the University of Michigan. I am majoring in Robotics with a minor in Electrical Engineering. My interests lie in Robotics, Computer Hardware, Nanotechnology, and Graphics.
 
 # Technical skills
 <table >
