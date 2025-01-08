@@ -47,7 +47,9 @@ Not everything I do can be published, but here is a description of other work I'
 - <a href="https://cs61c.org/">CS61C<a>: Great Ideas in Computer Architecture (taken at UC Berkeley at age 16; achieved grade A): C-based text parser, RISC-V assembly MNIST classifier, RISC-V core built at the circuit level, and a Python extension for optimized linear algebra routines written in C.
 - <a href="https://eecs280.org/">EECS 280</a>: Programming and Intro Data Structures (Fall 23 at U-M; grade A+): Image processing, Interactice Euchre game, Natural Language processing and Bayesian Classification (all C++).
 
+<!--
 # Coursework
+
 <table>
   <tr align="center">
     <th width="500">Computer Science</th>
@@ -73,6 +75,7 @@ Not everything I do can be published, but here is a description of other work I'
 
 # Foreign Languages
 I know German and Mandarin Chinese, both at a professional proficiency.
+!-->
 # Contact:
 Feel free to reach out to ask more questions about my work or experience. Please email if you would like a copy of my resumé. <br>
 Email: aboyarov _at_ umich _dot_ edu
