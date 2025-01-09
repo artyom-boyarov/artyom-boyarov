@@ -24,19 +24,25 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
 
 # Projects
 <!--<br><i>Follow the link to each repository, where you'll find code, in-depth descriptions, pictures, videos, and more.</i>-->
-
-- <a href="https://github.com/artyom-boyarov/trajectory-following-simulation">trajectory-following-simulation</a>: A simulation comparing control algorithms for navigating an autonomous bus through an urban environment,  used to carry out my first <a href="https://emerginginvestigators.org/articles/22-104">published</a> research project.
-- <a href="https://github.com/artyom-boyarov/fpga-demos">fpga-demos</a>: ~8 working SystemVerilog HDL modules interacting with the Digilent Basys3's on-board peripherals, including the PS/2 interface, VGA port, 7-segment display, on-chip BRAM and debug cores.
-- <a href="https://github.com/h1-Group-h1">Royal Automation</a>: A smart home automation system developed by a London-based team for the 2021 Fox Hub accelerator program. Our system allowed users to automatically open their windows and blinds at the press of a button in their smartphone app.
-- <a href="https://github.com/umrover/mrover-ros">mrover-ros</a>: I'm an embedded software engineer at the University of Michigan's Mars Rover Project Team. In the past year, I've made the following contributions:
-  - Spearheaded transition to MJBots Moteus brushless motor control board by studying CAN interface and writing a supporting C++ software library.
-  - Clearly documented motor communication protocol and how to run, configure, and debug motors.
-  - Produced reliable, user-friendly Python script to automatically configure new motors with pre-determined, optimal settings.
-  - Learned Altium Designer and collaborated with team to design a new circuit board to improve collected sample analysis.
-  - Upgraded firmware for STM32-based motor control board, employing novel C++20 features to improve performance.
-- <a href="https://github.com/artyom-boyarov/Flashcards">Flashcards</a>: a QT5-based flashcards app, designed to mimic Quizlet.
-- <a href="https://github.com/artyom-boyarov/xamarin-converter">xamarin-converter</a>: A Xamarin.Forms app which converts between different units.
-
+<table>
+  <tr align="center">
+    <td width=500><a href="https://github.com/artyom-boyarov/trajectory-following-simulation">trajectory-following-simulation</a>: Steering autonomous buses</td>
+    <td width=500><a href="https://github.com/artyom-boyarov/fpga-demos">fpga-demos</a>: SystemVerilog HDL demos for the Basys3's on-board peripherals</td>
+    <td width=500><a href="https://github.com/artyom-boyarov/Flashcards">Flashcards</a>: QT5-based flashcards (quizlet clone) app</td>
+  </tr>
+  <tr>
+    <td><img src="./figure_1.jpg"/></td>
+    <td><img src="./temp_sensor.gif"/></td>
+    <td><img src="./revising_a_set.png"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/h1-Group-h1">Royal Automation</a>: Smart home automation</td>
+    <td><a href="https://github.com/umrover/mrover-ros">mrover-ros</a>: Embedded Software for Michigan Mars Rover Team</td>
+    <td><a href="https://github.com/artyom-boyarov/xamarin-converter">xamarin-converter</a>: Xamarin.Forms app to convert between units</td>
+  </tr>
+</table>
+Additional research experience, internships, and coursework can be founded on my <a href="https://www.linkedin.com/in/artyom-art-boyarov-193568223/">LinkedIn page</a>.
+<!--
 Not everything I do can be published, but here is a description of other work I've done as part of internships and coursework:
 - Software Engineering internship at Flex Technologies [London, UK, May-Aug 2023]:
   - Integrated new payment gateway (PaySera) with the company’s online Shopify store which reduced card payment processing cost by 50%. 
