@@ -1,5 +1,46 @@
-## Hi there 👋
-I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the University of Michigan. I am majoring in Robotics with a minor in Electrical Engineering. My interests lie in Robotics, Computer Hardware, Nanotechnology, and Graphics.
+## GitHub Portfolio
+I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the University of Michigan. I am majoring in Robotics with a minor in Electrical Engineering. My interests lie in Robotics, Computer Hardware, Nanotechnology, and Graphics. I hope you enjoy my portfolio!
+
+# Projects
+<!--<br><i>Follow the link to each repository, where you'll find code, in-depth descriptions, pictures, videos, and more.</i>-->
+<!--Can add FANUC SURCAR photos-->
+<table>
+  <tr align="center">
+    <td width=500>
+      <a href="https://github.com/artyom-boyarov/artyom-boyarov/blob/main/ROB_498_Final_Report.pdf">Learning Block Pushing Task Dynamics</a> <br>
+      <i>Python, PyBullet, PyTorch, MPPI</i>
+    </td>
+    <td width=500>
+      <a href="https://github.com/artyom-boyarov/artyom-boyarov/blob/main/ROB_490_W25_Final_Report.pdf">ML for Correcting Robotic Screw Fastening Misalignment</a> <br>
+      <i> Python, C++, Drake, PyTorch Neural Networks, KUKA Robots, Compliant Control </i>
+    </td>
+    <td width=500>
+      <a href="https://github.com/artyom-boyarov/">NL-MPC Autonomous Parking Path Planning</a>
+      <i>C++, CasADi, Nonlinear Optimization</i>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="./Block pushing final demo.gif"/></td>
+    <td><img src="./ROB 490 Fastening Close-up.gif"/></td>
+    <td><img src="./NL-MPC Parking.gif"/></td>
+  </tr>
+  <tr align="center">
+    <td width=500><a href="https://github.com/artyom-boyarov/trajectory-following-simulation">trajectory-following-simulation</a>: Steering autonomous buses</td>
+    <td width=500><a href="https://github.com/artyom-boyarov/fpga-demos">fpga-demos</a>: SystemVerilog HDL demos for the Basys3's on-board peripherals</td>
+    <td width=500><a href="https://github.com/artyom-boyarov/Flashcards">Flashcards</a>: QT5-based flashcards (quizlet clone) app</td>
+  </tr>
+  <tr>
+    <td><img src="./figure_1.jpg"/></td>
+    <td><img src="./temp_sensor.gif"/></td>
+    <td><img src="./revising_a_set.png"/></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/h1-Group-h1">Royal Automation</a>: Smart home automation</td>
+    <td><a href="https://github.com/umrover/mrover-ros">mrover-ros</a>: Embedded Software for Michigan Mars Rover Team</td>
+    <td><a href="https://github.com/artyom-boyarov/xamarin-converter">xamarin-converter</a>: Xamarin.Forms app to convert between units</td>
+  </tr>
+</table>
+Additional research experience, internships, and coursework can be founded on my <a href="https://www.linkedin.com/in/artyom-art-boyarov-193568223/">LinkedIn page</a>.
 
 # Technical skills
 <table >
@@ -22,26 +63,6 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
   </tr>
 </table>
 
-# Projects
-<!--<br><i>Follow the link to each repository, where you'll find code, in-depth descriptions, pictures, videos, and more.</i>-->
-<table>
-  <tr align="center">
-    <td width=500><a href="https://github.com/artyom-boyarov/trajectory-following-simulation">trajectory-following-simulation</a>: Steering autonomous buses</td>
-    <td width=500><a href="https://github.com/artyom-boyarov/fpga-demos">fpga-demos</a>: SystemVerilog HDL demos for the Basys3's on-board peripherals</td>
-    <td width=500><a href="https://github.com/artyom-boyarov/Flashcards">Flashcards</a>: QT5-based flashcards (quizlet clone) app</td>
-  </tr>
-  <tr>
-    <td><img src="./figure_1.jpg"/></td>
-    <td><img src="./temp_sensor.gif"/></td>
-    <td><img src="./revising_a_set.png"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/h1-Group-h1">Royal Automation</a>: Smart home automation</td>
-    <td><a href="https://github.com/umrover/mrover-ros">mrover-ros</a>: Embedded Software for Michigan Mars Rover Team</td>
-    <td><a href="https://github.com/artyom-boyarov/xamarin-converter">xamarin-converter</a>: Xamarin.Forms app to convert between units</td>
-  </tr>
-</table>
-Additional research experience, internships, and coursework can be founded on my <a href="https://www.linkedin.com/in/artyom-art-boyarov-193568223/">LinkedIn page</a>.
 <!--
 Not everything I do can be published, but here is a description of other work I've done as part of internships and coursework:
 - Software Engineering internship at Flex Technologies [London, UK, May-Aug 2023]:
