@@ -15,7 +15,7 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
       <i> Python, C++, Drake, PyTorch Neural Networks, KUKA Robots, Compliant Control </i>
     </td>
     <td width=500>
-      <a href="https://github.com/artyom-boyarov/">NL-MPC Autonomous Parking Path Planning</a> <br> (May - Aug. 2024) <br>
+      <a href="https://github.com/artyom-boyarov/autonomous-parking-c">NL-MPC Autonomous Parking Path Planning</a> <br> (May - Aug. 2024) <br>
       <i>C++, CasADi, Nonlinear Optimization</i>
     </td>
   </tr>
