@@ -7,15 +7,15 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
 <table>
   <tr align="center">
     <td width=500>
-      <a href="https://github.com/artyom-boyarov/artyom-boyarov/blob/main/ROB_498_Final_Report.pdf">Learning Block Pushing Task Dynamics</a> <br>
+      <a href="https://github.com/artyom-boyarov/artyom-boyarov/blob/main/ROB_498_Final_Report.pdf">Learning Block Pushing Task Dynamics</a> <br> (Apr. 2025) <br>
       <i>Python, PyBullet, PyTorch, MPPI</i>
     </td>
     <td width=500>
-      <a href="https://github.com/artyom-boyarov/artyom-boyarov/blob/main/ROB_490_W25_Final_Report.pdf">ML for Correcting Robotic Screw Fastening Misalignment</a> <br>
+      <a href="https://github.com/artyom-boyarov/artyom-boyarov/blob/main/ROB_490_W25_Final_Report.pdf">ML for Correcting Robotic Screw Fastening Misalignment</a> <br> (Jan. - Apr. 2025) <br>
       <i> Python, C++, Drake, PyTorch Neural Networks, KUKA Robots, Compliant Control </i>
     </td>
     <td width=500>
-      <a href="https://github.com/artyom-boyarov/">NL-MPC Autonomous Parking Path Planning</a>
+      <a href="https://github.com/artyom-boyarov/">NL-MPC Autonomous Parking Path Planning</a> <br> (May - Aug. 2024) <br>
       <i>C++, CasADi, Nonlinear Optimization</i>
     </td>
   </tr>
