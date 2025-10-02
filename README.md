@@ -35,7 +35,7 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
     <td width=500><a href="https://github.com/artyom-boyarov/fpga-demos">fpga-demos</a>: SystemVerilog HDL demos for the Basys3's on-board peripherals</td>
   </tr>
   <tr>
-    <td><img src="./figure_1.jpg"/></td>
+    <td><img src="./depowdering_grasps.png"/></td>
     <td><img src="./temp_sensor.gif"/></td>
     <td><img src="./temp_sensor.gif"/></td>
   </tr>
