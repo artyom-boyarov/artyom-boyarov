@@ -26,13 +26,15 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
   </tr>
   <tr align="center">
     <td width=500><a href="https://github.com/artyom-boyarov/trajectory-following-simulation">Fragility-aware Grasping</a> <br>
-      <a href="https://doi.org/10.1115/MSEC2025-155431">Paper</a> <br>
-      <i>Python, C++, Grasping</i>
+      <a href="https://doi.org/10.1115/MSEC2025-155431">[paper]</a> <br>
+      <i>Python, C++, Grasping, Flexiv robots</i>
     </td>
-    <td width=500><a href="https://github.com/artyom-boyarov/fpga-demos">MRover</a>: Embedded Software</td> <br>
+    <td width=500><a href="https://github.com/artyom-boyarov/fpga-demos">MRover</a>: Embedded Software <br>
     <i>C++, ROS2, Brushless Motors, CAN</i>
     </td>
-    <td width=500><a href="https://github.com/artyom-boyarov/fpga-demos">fpga-demos</a>: SystemVerilog HDL demos for the Basys3's on-board peripherals</td>
+    <td width=500><a href="https://github.com/artyom-boyarov/fpga-demos">fpga-demos</a>: SystemVerilog HDL demos for the Basys3's on-board peripherals <br>
+      <i>SystemVerilog, AMD Vivado</i>
+    </td> 
   </tr>
   <tr>
     <td><img src="./depowdering_grasps.png"/></td>
