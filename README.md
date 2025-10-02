@@ -25,19 +25,19 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
     <td><img src="./NL-MPC Parking.gif"/></td>
   </tr>
   <tr align="center">
-    <td width=500><a href="https://github.com/artyom-boyarov/trajectory-following-simulation">trajectory-following-simulation</a>: Steering autonomous buses</td>
+    <td width=500><a href="https://github.com/artyom-boyarov/trajectory-following-simulation">Fragility-aware Grasping</a> <br>
+      <a href="https://doi.org/10.1115/MSEC2025-155431">Paper</a> <br>
+      <i>Python, C++, Grasping</i>
+    </td>
+    <td width=500><a href="https://github.com/artyom-boyarov/fpga-demos">MRover</a>: Embedded Software</td> <br>
+    <i>C++, ROS2, Brushless Motors, CAN</i>
+    </td>
     <td width=500><a href="https://github.com/artyom-boyarov/fpga-demos">fpga-demos</a>: SystemVerilog HDL demos for the Basys3's on-board peripherals</td>
-    <td width=500><a href="https://github.com/artyom-boyarov/Flashcards">Flashcards</a>: QT5-based flashcards (quizlet clone) app</td>
   </tr>
   <tr>
     <td><img src="./figure_1.jpg"/></td>
     <td><img src="./temp_sensor.gif"/></td>
-    <td><img src="./revising_a_set.png"/></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/h1-Group-h1">Royal Automation</a>: Smart home automation</td>
-    <td><a href="https://github.com/umrover/mrover-ros">mrover-ros</a>: Embedded Software for Michigan Mars Rover Team</td>
-    <td><a href="https://github.com/artyom-boyarov/xamarin-converter">xamarin-converter</a>: Xamarin.Forms app to convert between units</td>
+    <td><img src="./temp_sensor.gif"/></td>
   </tr>
 </table>
 Additional research experience, internships, and coursework can be founded on my <a href="https://www.linkedin.com/in/artyom-art-boyarov-193568223/">LinkedIn page</a>.
