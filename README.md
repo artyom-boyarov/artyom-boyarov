@@ -51,8 +51,14 @@ Additional research experience, internships, and coursework can be founded on my
     <th width="500">Hardware</th>
   </tr>
   <tr  align="center">
-    <td ><image src="./c++.png" height=30/>  <image src="./c.png" height=30/> <image src="./python.png" height=30/> <image src="./java.jpg" height=30/>  <image src="./csharp.png" height=30/>  <image src="./matlab.png" height=30/>  <image src="./sv.png" height=30/></td>
-    <td >MCUs: <image src="./rpi.png" height=30/> <image src="./arduino.png" height=30/> <image src="./stm32.png" height=30/><br> FPGAs: <image src="./fpga_amd.png" height=30/> <image src="./fpga_intel.png" height=30/></td>
+    <td >
+      <i>C++, C, Python, MATLAB, Java, SystemVerilog</i>
+    </td>
+    <td >
+      <i>Raspberry Pi, Arduino, ESP32, STM32</i><br>
+      <i>AMD/Intel FPGAs</i><br>
+      <i>FANUC CRX robots, KUKA iiwa robots</i>
+    </td>
   </tr>
   <tr  align="center">
     <th>Tools</th>
@@ -60,8 +66,11 @@ Additional research experience, internships, and coursework can be founded on my
   </tr>
   
   <tr  align="center">
-    <td> <image src="./vs.png" height=30/>  <image src="./android_studio.png" height=30/>  <image src="./git.png" height=30/> <image src="./matlab.png" height=30/> <br>  <image src="./onshape.png" height=30/>  <image src="./solidworks.png" height=30/> <br>  <image src="./altium.png" height=30/>  <image src="./kicad.png" height=30/>  <br>  <image src="./vivado.jpg" height=30/>  <image src="./quartus.jpeg" height=30/>  <image src="./verilator.png" height=30/> </td>
-    <td>  <image src="./ros.png" height=30/> <image src="./ros2.png" height=30/> <br> <image src="./matplotlib.webp" height=30/> <image src="./numpy.png" height=30/> <br><image src="./fastapi.png" height=30/> <image src="./sqlalchemy.png" height=30/> <br><image src="./android.png" height=30/> <image src="./qt.png" height=30/></td>
+    <td>
+      <i>Matlab, Simulink, SolidWorks, Altium Designer, AMD Vivado</i> </td>
+    <td> 
+      <i>ROS1/2, Qt, Matplotlib, Numpy, Drake, PyTorch, PyBullet, Stable-Baselines3, FANUC RMI
+    </td>
   </tr>
 </table>
 
