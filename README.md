@@ -38,7 +38,7 @@ I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the Uni
   </tr>
   <tr>
     <td><img src="./depowdering_grasps.png"/></td>
-    <td><img src="./temp_sensor.gif"/></td>
+    <td><img src="./moteus.jpg"/></td>
     <td><img src="./temp_sensor.gif"/></td>
   </tr>
 </table>
