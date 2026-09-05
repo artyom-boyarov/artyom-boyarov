@@ -1,5 +1,5 @@
 ## GitHub Portfolio
-I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at the University of Michigan. I am majoring in Robotics with a minor in Electrical Engineering. My interests lie in Robotics, Computer Hardware, Nanotechnology, and Graphics. I hope you enjoy my portfolio!
+I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at Stanford University studying a Master's in Electrical Engineering. My interests lie in robot control and planning. I hope you enjoy my portfolio!
 
 # Projects
 <!--<br><i>Follow the link to each repository, where you'll find code, in-depth descriptions, pictures, videos, and more.</i>-->
