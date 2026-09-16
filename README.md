@@ -70,7 +70,7 @@ Additional research experience, internships, and coursework can be founded on my
     <td>
       <i>Matlab, Simulink, SolidWorks, Altium Designer, AMD Vivado</i> </td>
     <td> 
-      <i>ROS1/2, Qt, Matplotlib, Numpy, Drake, PyTorch, PyBullet, Stable-Baselines3, FANUC RMI
+      <i>ROS1/2, Qt, Matplotlib, Numpy, Drake, PyTorch, PyBullet, Stable-Baselines3, FANUC RMI, cvxpy, CasADi
     </td>
   </tr>
 </table>
@@ -117,4 +117,4 @@ I know German and Mandarin Chinese, both at a professional proficiency.
 !-->
 # Contact:
 Feel free to reach out to ask more questions about my work or experience. Please email if you would like a copy of my resumé. <br>
-Email: aboyarov _at_ umich _dot_ edu
+Email: aboyarov _at_ stanford _dot_ edu
