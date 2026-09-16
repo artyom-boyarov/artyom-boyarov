@@ -1,5 +1,5 @@
 ## GitHub Portfolio
-I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at Stanford University studying a Master's in Electrical Engineering. My interests lie in robot control and planning. I hope you enjoy my portfolio!
+I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at Stanford University studying a Master's in Electrical Engineering. My interests lie in robot control and planning. I am also passionate about realizing the social and environmental gains robotics can open for us. I hope you enjoy my portfolio!
 
 # Projects
 _Some of these projects were done as part of a course, hence the code is hidden, but a report is provided._
