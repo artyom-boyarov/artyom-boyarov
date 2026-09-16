@@ -2,6 +2,7 @@
 I'm Artyom Boyarov, a hard-working, curious, and well-rounded student at Stanford University studying a Master's in Electrical Engineering. My interests lie in robot control and planning. I hope you enjoy my portfolio!
 
 # Projects
+_Some of these projects were done as part of a course, hence the code is hidden, but a report is provided._
 <!--<br><i>Follow the link to each repository, where you'll find code, in-depth descriptions, pictures, videos, and more.</i>-->
 <!--Can add FANUC SURCAR photos-->
 <table>
