@@ -15,21 +15,36 @@ _Some of these projects were done as part of a course, hence the code is hidden,
       <a href="https://github.com/artyom-boyarov/artyom-boyarov/blob/main/ROB_490_W25_Final_Report.pdf">ML for Correcting Robotic Screw Fastening Misalignment</a> <br> (Jan. - Apr. 2025) <br>
       <i> Python, C++, Drake, PyTorch Neural Networks, KUKA Robots, Compliant Control </i>
     </td>
+    <td width=500><a href="https://doi.org/10.1115/MSEC2025-155431">Fragility-aware Grasping</a> <br>
+      <a href="https://doi.org/10.1115/MSEC2025-155431">[paper]</a> <br>
+      <i>Python, C++, Grasping, Flexiv robots</i>
+    </td>
+  </tr>
+  <tr>
+    <td><img src="./Block pushing final demo.gif"/></td>
+    <td><img src="./ROB 490 Fastening Close-up.gif"/></td>
+    <td><img src="./depowdering_grasps.png"/></td>
+  </tr>
+  <tr align="center">
+    <td width=500>
+      <a href="https://github.com/artyom-boyarov/eecs467-diffusion-policy">Diffusion Policy with LeRobot SO-101 Arms</a> <br> (Mar. 2026) <br>
+      <i>Python, PyTorch, LeRobot, Diffusion Policy</i>
+    </td>
+    <td width=500>
+      <a href="https://github.com/artyom-boyarov/artyom-boyarov/blob/main/Design_Lab_Report.pdf">Autonomous Drawing and Erasing Bot</a> <br> (Mar. - Apr. 2026) <br>
+      <i> Python, C++, ESP32, Motion Planning </i>
+    </td>
     <td width=500>
       <a href="https://github.com/artyom-boyarov/autonomous-parking-c">NL-MPC Autonomous Parking Path Planning</a> <br> (May - Aug. 2024) <br>
       <i>C++, CasADi, Nonlinear Optimization</i>
     </td>
   </tr>
   <tr>
-    <td><img src="./Block pushing final demo.gif"/></td>
-    <td><img src="./ROB 490 Fastening Close-up.gif"/></td>
+    <td><img src="./Blockpickalmostsuccess_compressed.gif"/></td>
+    <td><img src="./EECS467_star.gif"/></td>
     <td><img src="./NL-MPC Parking.gif"/></td>
   </tr>
   <tr align="center">
-    <td width=500><a href="https://doi.org/10.1115/MSEC2025-155431">Fragility-aware Grasping</a> <br>
-      <a href="https://doi.org/10.1115/MSEC2025-155431">[paper]</a> <br>
-      <i>Python, C++, Grasping, Flexiv robots</i>
-    </td>
     <td width=500><a href="https://github.com/umrover/mrover-ros">MRover</a>: Embedded Software <br>
     <i>C++, ROS2, Brushless Motors, CAN</i>
     </td>
@@ -38,7 +53,6 @@ _Some of these projects were done as part of a course, hence the code is hidden,
     </td> 
   </tr>
   <tr>
-    <td><img src="./depowdering_grasps.png"/></td>
     <td><img src="./moteus.jpg"/></td>
     <td><img src="./temp_sensor.gif"/></td>
   </tr>
