@@ -31,7 +31,8 @@ _Some of these projects were done as part of a course, hence the code is hidden,
       <i>Python, PyTorch, LeRobot, Diffusion Policy</i>
     </td>
     <td width=500>
-      <a href="https://github.com/artyom-boyarov/artyom-boyarov/blob/main/Design_Lab_Report.pdf">Autonomous Drawing and Erasing Bot</a> <br> (Mar. - Apr. 2026) <br>
+      <a href="https://github.com/ElemelonWind/scribbles-and-specs">Autonomous Drawing and Erasing Bot</a> <br> 
+      <a href="https://github.com/artyom-boyarov/artyom-boyarov/blob/main/Design_Lab_Report.pdf">[Report]</a><br>(Mar. - Apr. 2026) <br>
       <i> Python, C++, ESP32, Motion Planning </i>
     </td>
     <td width=500>
